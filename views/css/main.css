@@ -1,0 +1,55 @@
+body{
+	text-align: center !important;
+}
+.title p{
+	margin-top: 20px;
+	font-size: 30px;
+}
+input{
+	text-align: center;
+}
+#LangTable{
+    margin-bottom: 15px;
+}
+.main_form{
+	width: 100%;
+	display:flex;
+	align-items: center;
+	justify-content:baseline;
+}
+.form-card{
+    background-color:rgb(251, 243, 213);
+	box-shadow:inset 3px 3px 15px rgb(251, 251, 251),inset 3px 3px 15px rgb(255, 255, 255);
+    border-radius: 10px;
+    margin-top: 90px;
+	
+}
+.mssg{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-radius: 5px;
+}
+
+ 
+ 
+ .btn-success{
+	background-color:red;
+ }
+ #form1 input{
+	border:solid 0.3px black;
+    
+ }
+ .form-group form input{
+	border:solid 1px black;
+ }
+ 
+ .home{
+	height:100dvh;
+	width: 100%;
+	background-image: url('./images/Background.png');
+	background-position:center;
+	background-size:cover;
+	background-repeat: no-repeat;
+	position:relative;
+ }
+ 
